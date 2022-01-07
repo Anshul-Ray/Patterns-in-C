@@ -1,2 +1,2 @@
-<h1 align="center">Patterns in C</h1>
-<h3 align="center">Pattern programs in C language.</h3>
+<h1 align="center">Patterns in C/Cpp</h1>
+<h3 align="center">Pattern programs in C & C++ language.</h3>
